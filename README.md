@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Adonisa Berisha 👋
 
-<!--
-**adonisaberi/adonisaberi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Graduate | Master's Student
 
-Here are some ideas to get you started:
+I hold a Bachelor's degree in Computer Science and am currently pursuing my Master's degree at the **University of Prishtina**, focusing on **Data Analytics, Data Engineering, and Machine Learning**. I enjoy exploring complex datasets, solving analytical problems, and transforming raw data into meaningful, actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently expanding my knowledge in data technologies and building practical, data-driven projects.
+
+---
+
+### 🛠️ Technical Skills
+
+- **Programming:** Python, R, SQL, Java
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, Logistic Regression, Random Forest, K-Means, PCA
+- **Web Development:** HTML, CSS, JavaScript, React
+- **Tools & Databases:** Git, GitHub, MySQL
+
+---
+
+### 🚀 Featured Project
+
+**Heart Disease Data Analysis & Machine Learning**
+- End-to-end data cleaning, preprocessing, and exploratory data analysis
+- Predictive modeling using classification and clustering algorithms
+- Dimensionality reduction (PCA) and association rule mining
+
+---
+
+### 📬 Let's Connect
+
+- **LinkedIn:** [Adonisa Berisha](https://www.linkedin.com/in/adonisa-berisha)
+- **GitHub:** [@adonisaberi](https://github.com/adonisaberi)
